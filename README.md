@@ -2,7 +2,7 @@
 # DEVANSH GUPTA
 #                                         Frontend Developer  
 
-Welcome to my Frontend Developer portfolio! This repository showcases my journey, projects, and skills in frontend development.
+
 
 ## 📌 About Me
 I am a passionate frontend developer focused on building beautiful, user-friendly, and responsive web applications. My expertise includes:
