@@ -1,16 +1,40 @@
-## Hi there 👋
 
-<!--
-**Devanshg22/Devanshg22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# DEVANSH GUPTA
+#                                         Frontend Developer  
 
-Here are some ideas to get you started:
+Welcome to my Frontend Developer portfolio! This repository showcases my journey, projects, and skills in frontend development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 About Me
+I am a passionate frontend developer focused on building beautiful, user-friendly, and responsive web applications. My expertise includes:
+- Creating modern and interactive UI/UX designs
+- Implementing responsive web layouts
+- Writing clean and maintainable code
+- Optimizing web performance
+
+## 🛠️ Tech Stack
+- **Languages**: HTML, CSS, JavaScript
+- **Frameworks & Libraries**: React.js, Tailwind CSS, Bootstrap
+- **Tools**: Git & GitHub, Figma, VS Code, Webpack
+- **Other**: API Integration, Responsive Design, Performance Optimization
+
+## 📂 Projects
+### 🌟 Featured Projects
+1. **Netflix Clone** 🎬 – A responsive movie streaming platform (HTML, CSS)
+2. **Weather App** ☁️ – A real-time weather app using API (HTML, CSS, JavaScript)
+
+
+
+## 🎯 Goals
+- [ ] Master advanced React.js concepts
+- [ ] Learn Next.js and improve SEO skills
+- [ ] Contribute to open-source frontend projects
+- [ ] Build full-fledged web applications
+
+## 📢 Connect with Me
+📧 Email: dg912838@gmail.com  
+🔗 LinkedIn: https://www.linkedin.com/in/devanshgupta22/
+  
+
+---
+🚀 *Building the future, one line of code at a time!*
+
